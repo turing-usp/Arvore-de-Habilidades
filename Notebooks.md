@@ -1,5 +1,7 @@
 # Notebooks a serem elaborados nas próximas semanas
 
+* Data Scrapping (pandas, bs4, Selenium)
+
 * Model Visualization
 
 * Model Regularization
