@@ -14,7 +14,7 @@
 
 * Clustering 
 
-*PCA 
+* PCA 
 
 
 # O que já temos 
