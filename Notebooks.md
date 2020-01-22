@@ -12,6 +12,10 @@
 
 * Data Cleaning
 
+* Clustering 
+
+*PCA 
+
 
 # O que já temos 
 
