@@ -1,4 +1,4 @@
-# Turing
+# Turing - Árvore de Habilidades
 Repositório dedicado a armazenar notebooks feitos para o treinamento interno do Grupo Turing da Universidade de São Paulo e para a Árvore de Habilidades do mesmo grupo.
 
 
