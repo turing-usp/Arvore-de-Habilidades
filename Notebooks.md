@@ -25,4 +25,4 @@
 
 * Pandas Practice 
 
-* Hyper Parameter Tunning 
+* Hyper Parameter Tuning 
