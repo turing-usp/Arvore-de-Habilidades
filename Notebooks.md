@@ -1,6 +1,6 @@
 # Notebooks a serem elaborados nas próximas semanas
 
-* Data Scrapping (pandas, bs4, Selenium)
+* Data Scrapping (Selenium)
 
 * Model Visualization
 
@@ -28,3 +28,5 @@
 * Hyper Parameter Tuning 
 
 * Facebook's Prophet
+
+* Data Scrapping (Beatiful Soup)
