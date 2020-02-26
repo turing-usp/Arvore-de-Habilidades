@@ -37,3 +37,5 @@ Repositório dedicado a armazenar notebooks feitos para o treinamento interno do
 * Facebook's Prophet
 
 * Data Scrapping (Beatiful Soup)
+
+* Análise de Dados (wine dataset)
