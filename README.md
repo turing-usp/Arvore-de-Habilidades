@@ -39,3 +39,5 @@ Repositório dedicado a armazenar notebooks feitos para o treinamento interno do
 * Data Scrapping (Beatiful Soup)
 
 * Análise de Dados (wine dataset)
+
+* Perceptron 
