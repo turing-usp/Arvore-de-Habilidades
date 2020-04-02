@@ -8,7 +8,13 @@ Repositório dedicado a armazenar notebooks feitos para o treinamento interno do
 
 * KNN
 
+* Numpy
+
+* Pandas
+
 * Pandas Practice 
+
+* Matplotlib
 
 * Hyper Parameter Tuning 
 
