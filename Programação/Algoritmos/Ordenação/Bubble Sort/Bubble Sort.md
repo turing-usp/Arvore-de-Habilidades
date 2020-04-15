@@ -3,7 +3,6 @@
 ## Grupo Turing
 # Bubble Sort
 
-#### 14 de Novembro de 2019
 ---
 
 - **Resumo**:
