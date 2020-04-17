@@ -15,9 +15,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean hendrerit velit 
 **Grupo Turing**  
 Grupo de Extensão da Universidade de São Paulo (USP)
 
-[turing.usp@gmail.com](turing.usp@gmail.com)  
-[grupoturing.netlify.com](grupoturing.netlify.com)  
-[facebook.com/grupoturing.poliusp](facebook.com/grupoturing.poliusp)  
-[medium.com/turing-talks](medium.com/turing-talks)  
-[linkedin.com/company/grupo-turing](linkedin.com/company/grupo-turing)
+[mailto](turing.usp@gmail.com)   
+[Facebook](https://www.facebook.com/grupoturing.poliusp)  
+[Medium](https://www.medium.com/turing-talks)  
+[LinkedIn](https://www.linkedin.com/company/grupo-turing)
 
