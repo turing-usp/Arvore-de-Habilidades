@@ -10,7 +10,7 @@
 
 2) Incluir os arquivos correspondentes na pasta
 
-3) Mudar para uma nova branch, já que não é possível fazer um commit pela master: **git checkout -m "(nome da branch)"**
+3) Mudar para uma nova branch, já que não é possível fazer um commit pela master: **git checkout -b "(nome da branch)"**
 
     - Padrão de nome de branch:
         - "add/[nome do arquivo/pasta]" para adicionar
