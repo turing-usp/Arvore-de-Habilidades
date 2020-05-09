@@ -22,8 +22,9 @@
 
 5) Fazer o commit: **git commit -m "(Mensagem em portugues)"**
     
-    - Para a mensagem de commit, informar o que for criado/alterado, em letras maiúsculas
-    - Padrão: "ESTE COMMIT ADICIONA/ALTERA ..."
+    - Para a mensagem de commit, informar o que for criado/alterado, com a primeira letra maiúscula
+    - Padrão: (este commit) "Adiciona/Arruma o arquivo ..."
+
 
 
 6) Mandar para o github: **git push origin HEAD**
