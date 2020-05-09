@@ -9,6 +9,7 @@
 1) Navegar até a pasta certa, criando as pastas necessárias para igualar ao caminho da árvore
 
 2) Incluir os arquivos correspondentes na pasta
+    - Para arquivos .md, nomeá-lo como **README.md**, de forma que o github o abra automaticamente
 
 3) Mudar para uma nova branch, já que não é possível fazer um commit pela master: **git checkout -b "(nome da branch)"**
 
