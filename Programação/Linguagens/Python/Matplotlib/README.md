@@ -9,7 +9,7 @@ Biblioteca destinada a aprimorar e facilitar a visualização de dados através 
 
 - **Links**:
 
-    - [Implementação e exemplos](https://github.com/GrupoTuringCodes/Arvore-de-Habilidades/blob/master/Programa%C3%A7%C3%A3o/Linguagens/Python/Matplotlib/Matplotlib.ipynb)
+    - [Implementação e exemplos](https://github.com/GrupoTuring/Arvore-de-Habilidades/blob/master/Programa%C3%A7%C3%A3o/Linguagens/Python/Matplotlib/Matplotlib.ipynb)
     - [Turing Talks #6](https://medium.com/turing-talks/turing-talks-6-data-science-libraries-6c2599838b3e)
     - Textos do Medium  
        - [Data Visualization (using matplotlib)](https://medium.com/incedge/data-visualization-using-matplotlib-50ffc12f6af2)
