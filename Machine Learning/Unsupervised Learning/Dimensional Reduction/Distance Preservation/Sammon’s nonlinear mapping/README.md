@@ -6,6 +6,9 @@
 - **Resumo**:
 Teoria: Sammon’s nonlinear mapping (NLM) é um método que busca mapear dados de dimensão elevada (D) para uma representação de baixa dimensão (P). Sua complexidade de espaço é O(N²), enquanto que para tempo é O(N²P) por iteração. Embora ele faça esse mapeamento, ele não produz um modelo generativo, i.e. ele não consegue generalizar o mapeamento para novos pontos. Porém seus resultados são interessantes: ele possui um comportamento não linear (consegue ser mais eficiente que MDS) e possui resultados ótimos para dados não muito complexos. 
 
+- **Links**:
+    - [Non-linear mapping for exploratory data analysis in functional genomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC548129/)
+
 ---
 **Grupo Turing**  
 Grupo de Extensão da Universidade de São Paulo (USP)

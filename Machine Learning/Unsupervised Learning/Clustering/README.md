@@ -11,7 +11,7 @@ si, ou não estejam relacionados com os outros grupos.
 
 - **Links**:
     - [Documentação do scikit learn sobre Clustering](https://scikit-learn.org/stable/modules/clustering.html)
-    - [Slides de uma aula sobre Clustering](https://cs.wmich.edu/alfuqaha/summer14/cs6530/lectures/ClusteringAnalysis.pdf)
+    - [Aula de Clustering Analysis](https://cs.wmich.edu/alfuqaha/summer14/cs6530/lectures/ClusteringAnalysis.pdf)
 
 
 ---

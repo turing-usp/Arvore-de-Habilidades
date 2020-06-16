@@ -8,6 +8,8 @@
 
 - No notebook CDA, foi feito uma análise demonstrando o poder da técnica. Foram criados dados aleatórios: 1000 pontos de 2 dimensões e o objetivo era chegar em uma dimensão. Aplicando o algoritmo, o erro ficou cerca de 1100 no final das iterações. Um erro grande pois os dados não possuem dimensão intrínseca igual a um. Mudando a segunda dimensão para o cosseno da primeira, i.e., tornando a segunda variável uma função não linear da primeira, e aplicando o algoritmo novamente, obtemos um erro de 4.7e-11, um erro extremamente baixo.
 
+- **Links**:
+    - [Curvilinear Distance Analysis - UCL Neural Networks Group](https://www.elen.ucl.ac.be/neural-nets/Research/CDA/CDA.htm#:~:text=Curvilinear%20Distance%20Analysis,in%20the%20Sammon%2FCCA%20family.&text=The%20curvilinear%20distance%20di,object%2C%20like%20the%20Euclidean%20distance.)
 ---
 **Grupo Turing**  
 Grupo de Extensão da Universidade de São Paulo (USP)
