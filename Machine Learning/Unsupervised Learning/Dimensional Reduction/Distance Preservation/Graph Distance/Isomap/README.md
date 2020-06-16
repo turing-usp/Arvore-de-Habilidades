@@ -8,6 +8,7 @@
 
 - **Links**:
     - [Documentação do scikit learn sobre o algoritmo](https://scikit-learn.org/stable/modules/manifold.html#isomap)
+    - [Paper do Simpósio Europeu de Redes Neurais Aritificiais: Curvilinear Distance Analysis versus Isomap](https://perso.uclouvain.be/michel.verleysen/papers/esann02jl.pdf)
 
 
 ---
