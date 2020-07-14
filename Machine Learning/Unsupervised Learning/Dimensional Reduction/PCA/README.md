@@ -17,6 +17,8 @@ Principal Components Analysis (PCA) é um algoritmo de Redução de Dimensionali
 
 Essa técnica busca encontrar uma nova representação de dados tal que a variância dessa nova representação seja mantida comparado aos dados iniciais. Cada componente dessa nova representação possui uma quantidade de informação dele (proporcional a variância) e a redução de dimensionalidade ocorre quando se descarta os Componentes de menor importância (i.e. menor informação/variância), restando apenas os Componentes Principais.
 
+Um dos problemas que pode aparecer são dados com escalas muito distintas (ordens de grandeza bem diferentes). Nesse caso, o resultado do PCA pode ser foremente influenciado por variáveis com ordem de grandeza bem grande, prejudicando o resultado. Uma forma de resolver isso seria a padronização dos dados (i.e., subtrair pela média e dividir pelo desvio padrão).
+
 - **Links**:
     - [Turing Talks: Aprendizado Não Supervisionado | Redução de Dimensionalidade](https://medium.com/turing-talks/aprendizado-n%C3%A3o-supervisionado-redu%C3%A7%C3%A3o-de-dimensionalidade-479ecfc464ea)
     - [Machine Learning — Singular Value Decomposition (SVD) & Principal Component Analysis (PCA)](https://medium.com/@jonathan_hui/machine-learning-singular-value-decomposition-svd-principal-component-analysis-pca-1d45e885e491)
